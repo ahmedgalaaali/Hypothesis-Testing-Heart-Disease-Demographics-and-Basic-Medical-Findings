@@ -1,10 +1,5 @@
 # Exploratory Data Analysis & Hypothesis Testing: The UCI Heart Disease Dataset Paradox
 
-**Author:** Ahmed  
-**Date:** June 19, 2026  
-**Project Link:** [GitHub Profile / Repository]
-
----
 
 ## 1. Executive Summary
 This analysis presents a rigorous statistical evaluation of the classic UCI Heart Disease Dataset containing unique medical records across 14 clinical features. While demographic and basic systemic factors (Age, Blood Pressure, and Cholesterol) are globally recognized as major contributing risks for cardiovascular disease, inductive hypothesis testing on this cohort uncovers a stark contradiction to universal medical constants. This document highlights key clinical associations while diagnosing a textbook case of historical selection and referral bias in medical datasets.
